@@ -11,6 +11,7 @@
     <modules>
         <module>sprint-boot-interceptor</module>
         <module>sprint-boot-filter</module>
+        <module>spring-boot-conditional</module>
     </modules>
 
     <properties>
