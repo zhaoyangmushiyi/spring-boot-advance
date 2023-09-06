@@ -12,6 +12,8 @@
         <module>sprint-boot-interceptor</module>
         <module>sprint-boot-filter</module>
         <module>spring-boot-conditional</module>
+        <module>spring-boot-dynamicDataSource</module>
+        <module>spring-boot-jsr-303</module>
     </modules>
 
     <properties>
