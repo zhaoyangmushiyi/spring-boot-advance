@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>sprint-boot-interceptor</module>
-        <module>sprint-boot-filter</module>
+        <module>spring-boot-interceptor</module>
+        <module>spring-boot-filter</module>
         <module>spring-boot-conditional</module>
         <module>spring-boot-dynamicDataSource</module>
         <module>spring-boot-jsr-303</module>
